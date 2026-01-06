@@ -18,5 +18,7 @@
     "lib": "@/lib",
     "hooks": "@/hooks"
   },
-  "registries": {}
+  "registries": {
+    "@simple-ai": "https://simple-ai.dev/r/{name}.json"
+  }
 }
